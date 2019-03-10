@@ -1,3 +1,3 @@
 def echo(string)
-  string
+  Time.new.strftime('%d/%m/%Y') + ' ' + string
 end
