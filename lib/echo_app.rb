@@ -1,3 +1,8 @@
 def echo(string)
-  Time.new.strftime('%d/%m/%Y') + ' you said: ' + string
+   date + ' you said: ' + string
 end
+
+def date
+  Time.new.strftime('%d/%m/%Y')
+end
+  
