@@ -5,8 +5,8 @@ Process review echo app
 A simple echo application to echo back the date with what you said
 
 ## Tech Stack
-Ruby
-RSpec
+[Ruby]
+[RSpec]
 
 ## Installation
 
