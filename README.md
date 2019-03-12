@@ -3,18 +3,18 @@
 ## Description
 A simjple echo application to echo back the date with what you said
 
-##Tech Stack
+## Tech Stack
 Ruby
 RSpec
 
-##Installation
+## Installation
 
     $ git clone 
     $ cd echo_app_rb
     $ open ./lib/echo_app.rb
     $ rspec #Run the test first
 
-##How to use
+## How to use
     $ irb
     $ require('./lib/echo_app.rb')
     $ echo('this is an echo app')
