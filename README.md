@@ -1,7 +1,8 @@
 # Echo app in Ruby
+Process review echo app
 
 ## Description
-A simjple echo application to echo back the date with what you said
+A simple echo application to echo back the date with what you said
 
 ## Tech Stack
 Ruby
